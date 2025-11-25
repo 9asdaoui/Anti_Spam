@@ -143,7 +143,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**[Your Name]** - *Initial work* - [9asdaoui](https://github.com/9asdaoui)
+**Oussama Qasdaoui** - *Initial work* - [9asdaoui](https://github.com/9asdaoui)
 
 ## 🙏 Acknowledgments
 
